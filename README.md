@@ -12,3 +12,5 @@ https://web-dev1.lner.co.uk/mobile/home
 https://web-tst1.lner.co.uk/mobile/home
 
 https://web-stg1.lner.co.uk/mobile/home
+
+https://lnertst1.page.link
